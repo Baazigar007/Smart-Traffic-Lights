@@ -1,4 +1,4 @@
-# Smart-Traffic-Light
+# Smart-Traffic-Lights
 
 ## What is the Problem ??
 
